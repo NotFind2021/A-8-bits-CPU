@@ -56,7 +56,7 @@
     cd A-8-bits-CPU
     ```
 
-3. **用 Logical Circuit 打开 `.circ` 文件：**
+3. **用 Logical Circuit 打开 `.CircuitProject` 文件：**
    - 直接双击文件或在 Logical Circuit 软件中选择“打开工程”
    - 可查看、编辑、运行和单步仿真CPU电路
 
