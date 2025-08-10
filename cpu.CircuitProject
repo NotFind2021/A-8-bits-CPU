@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="ebfbeeb6-79d8-4855-a4cb-81af35e628cd" Name="电路项目" Zoom="0.9999999999999999" Frequency="1" LogicalCircuitId="9fdb5220-8e27-4390-affa-620952ec52f6" />
+	<Project ProjectId="ebfbeeb6-79d8-4855-a4cb-81af35e628cd" Name="电路项目" Zoom="1.2" Frequency="50" LogicalCircuitId="36e9753d-35f9-497a-a8c8-34dbbd28d351" />
 	<LogicalCircuit LogicalCircuitId="7f04fc06-1b7e-4adf-a1b4-5042e318eae5" Name="PC-16" Notation="PC-16" />
 	<LogicalCircuit LogicalCircuitId="a7b22da2-1725-40a4-a223-72d3e05b4daa" Name="HADD" Notation="HADD" />
 	<LogicalCircuit LogicalCircuitId="15c1b28a-676b-4fa7-86c3-15959d172efd" Name="ADD" Notation="ADD" />
@@ -1551,4 +1551,5 @@
 	<Wire WireId="3d99ee29-748d-48a5-8ec6-1c7144b5296a" LogicalCircuitId="4e60cd07-3b14-4054-a58e-41b2e42dda1c" X1="60" Y1="13" X2="61" Y2="13" />
 	<Wire WireId="37541776-f5a1-412b-afce-0e91fdf336e5" LogicalCircuitId="4e60cd07-3b14-4054-a58e-41b2e42dda1c" X1="60" Y1="28" X2="60" Y2="17" />
 	<Wire WireId="aaf29f4b-45ef-43be-928c-5fa8ab68ac5a" LogicalCircuitId="4e60cd07-3b14-4054-a58e-41b2e42dda1c" X1="60" Y1="13" X2="60" Y2="17" />
+	<Wire WireId="1883d3fa-6ac1-40a9-8b9f-ed0571ab12fe" LogicalCircuitId="9fdb5220-8e27-4390-affa-620952ec52f6" X1="72" Y1="28" X2="70" Y2="21" />
 </CircuitProject>
