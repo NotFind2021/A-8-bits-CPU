@@ -28,8 +28,6 @@
 
 ## 📝 支持的指令（举例）
 
-- `LOAD`   : 数据加载到寄存器
-- `STORE`  : 寄存器数据写回存储器
 - `ADD`    : 加法运算
 - `SUB`    : 减法运算
 - `AND`    : 逻辑与
@@ -37,13 +35,12 @@
 - `NOT`    : 逻辑非
 - `JMP`    : 无条件跳转
 - `JZ`     : 零标志跳转
-- `NOP`    : 空操作
 
 ---
 
 ## 📁 文件结构
 
-- `.circ` 文件为 [Logical Circuit](http://www.logiccircuit.org/) 的电路工程文件，可直接用该软件打开和仿真
+- `.CircuitProject` 文件为 [Logical Circuit](http://www.logiccircuit.org/) 的电路工程文件，可直接用该软件打开和仿真
 - 可能包含示例程序ROM内容、CPU主电路、各功能子模块等
 
 ---
