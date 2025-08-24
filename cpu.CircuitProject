@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="ebfbeeb6-79d8-4855-a4cb-81af35e628cd" Name="电路项目" Zoom="0.7461797752809017" Frequency="50" LogicalCircuitId="fa7c7086-1db9-451e-91c7-0fbc9ae1b59b" />
+	<Project ProjectId="ebfbeeb6-79d8-4855-a4cb-81af35e628cd" Name="电路项目" Zoom="1.1461797752809018" Frequency="50" LogicalCircuitId="fa7c7086-1db9-451e-91c7-0fbc9ae1b59b" />
 	<LogicalCircuit LogicalCircuitId="7f04fc06-1b7e-4adf-a1b4-5042e318eae5" Name="PC-16" Notation="PC-16" />
 	<LogicalCircuit LogicalCircuitId="a7b22da2-1725-40a4-a223-72d3e05b4daa" Name="HADD" Notation="HADD" />
 	<LogicalCircuit LogicalCircuitId="15c1b28a-676b-4fa7-86c3-15959d172efd" Name="ADD" Notation="ADD" />
