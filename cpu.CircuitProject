@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CircuitProject xmlns="http://LogicCircuit.net/2.0.0.14/CircuitProject.xsd">
-	<Project ProjectId="ebfbeeb6-79d8-4855-a4cb-81af35e628cd" Name="电路项目" Zoom="0.7" Frequency="5" LogicalCircuitId="36e9753d-35f9-497a-a8c8-34dbbd28d351" />
+	<Project ProjectId="ebfbeeb6-79d8-4855-a4cb-81af35e628cd" Name="电路项目" Zoom="0.9999999999999999" Frequency="50" LogicalCircuitId="36e9753d-35f9-497a-a8c8-34dbbd28d351" />
 	<LogicalCircuit LogicalCircuitId="7f04fc06-1b7e-4adf-a1b4-5042e318eae5" Name="PC-16" Notation="PC-16" />
 	<LogicalCircuit LogicalCircuitId="a7b22da2-1725-40a4-a223-72d3e05b4daa" Name="HADD" Notation="HADD" />
 	<LogicalCircuit LogicalCircuitId="15c1b28a-676b-4fa7-86c3-15959d172efd" Name="ADD" Notation="ADD" />
@@ -289,7 +289,7 @@
 	<CircuitButton CircuitButtonId="11801207-af5f-4e0a-9a17-567fcbb90dc8" IsToggle="True" />
 	<CircuitButton CircuitButtonId="2904e5d8-f513-4da1-8a0f-0e3c812553e6" />
 	<Memory MemoryId="ff265a59-b726-4ea3-8039-46cb1bcad795" Writable="True" OnStart="Zeros" AddressBitWidth="16" DataBitWidth="8" />
-	<Memory MemoryId="49a8e751-df71-42ce-a18f-c8f0ddc3ede3" AddressBitWidth="16" DataBitWidth="16" Data="AAAKAAFIABcCsA==" />
+	<Memory MemoryId="49a8e751-df71-42ce-a18f-c8f0ddc3ede3" AddressBitWidth="16" DataBitWidth="16" Data="AAAAAAQCCkABSiAXA7AHgA==" />
 	<LedMatrix LedMatrixId="c713f4f6-c058-4da8-86ca-cc6a5a28d628" MatrixType="Selector" Rows="8" Columns="1" />
 	<Splitter SplitterId="1b8f08c4-c771-4fd5-ab86-d9263619a714" BitWidth="8" PinCount="8" Clockwise="True" />
 	<Splitter SplitterId="f357ff8d-3bfb-408b-b426-b15e3c502d41" BitWidth="8" PinCount="8" />
